@@ -13,8 +13,6 @@ Installation
 git clone https://github.com/Olibesnier/OrganicMapsDownload.git
 cd OrganicMapsDownload
 ```
-That's it. No `pip install` needed.
----
 Usage
 Download a specific country or region
 ```bash
