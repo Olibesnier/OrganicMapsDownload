@@ -1,0 +1,10 @@
+# Downloaded map files
+maps/
+*.mwm
+*.part
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
